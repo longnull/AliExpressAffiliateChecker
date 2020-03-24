@@ -23,6 +23,7 @@
 ## Накормить
 WMZ: Z295739372858  
 WMR: R284351743434  
-Yandex: [410011391610131](https://money.yandex.ru/to/410011391610131)
+Yandex: [410011391610131](https://money.yandex.ru/to/410011391610131)  
+Bitcoin: [1NUxj8nMU7BFmw9YU6F7uMjRqKfTJNPeh2](http://donatecoins.org/btc/1NUxj8nMU7BFmw9YU6F7uMjRqKfTJNPeh2)
 
 ![Котик](img/cat.png)
